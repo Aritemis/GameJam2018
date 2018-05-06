@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Package1_2","characterIndex":1,"characterName":"Package1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vassa","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Package1_2","characterIndex":1,"characterName":"Package1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Waverly","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Package2_8","characterIndex":7,"characterName":"Package2","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Package2","traits":[],"initialLevel":1,"maxLevel":99,"name":"SurfPro","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Package2_3","characterIndex":2,"characterName":"Package2","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Package2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anwyn","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Package1_4","characterIndex":3,"characterName":"Package1","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucien","nickname":"","note":"","profile":""}
